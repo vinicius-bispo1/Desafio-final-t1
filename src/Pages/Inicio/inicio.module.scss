@@ -67,7 +67,7 @@
         background-image: url("../../assets/secondBanner.png");
         justify-content: center;
         h2{
-            border: solid 2px red;
+          
             width: 70%;
             text-align: center;
             font-size: 28px;
@@ -76,10 +76,10 @@
     }
 
     .devoDoar{
-        border: solid 2px green;
+        
         height: 120vh; 
         div{
-            border: solid 2px red;
+            
             justify-content: center;
             h2{
                 margin-left: 0;
@@ -88,7 +88,7 @@
     }
 
     .boxCard{
-        border: solid 2px rgb(172, 196, 17); 
+       
         height: 100vh;
         flex-wrap: wrap;
         gap: 20px;
